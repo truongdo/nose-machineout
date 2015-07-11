@@ -1,0 +1,1 @@
+Nose plugin that will format test output into a machine parse-able format usable in various editors and IDEs.
